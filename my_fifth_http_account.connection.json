@@ -1,0 +1,6 @@
+{
+  "name": "My fifth HTTP account",
+  "provider": "rest",
+  "secure_gateway_tunnel_name": null,
+  "root_folder": true
+}
